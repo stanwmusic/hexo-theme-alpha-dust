@@ -49,7 +49,7 @@ a:active {
 }
 a:hover {
   color: #d7ecff;
-  text-shadow: 0 0 1px #fff, 0 0 3px #fff, 0 0 7px #228dff;
+  text-shadow: 0 0 1px #333, 0 0 3px #fff, 0 0 7px #000;
   border-bottom: 1px dotted transparent;
   text-decoration: none;
 }
@@ -253,7 +253,7 @@ section.main .post .content blockquote footer strong:before {
   content: "-";
   padding-right: 10px;
 }
-section.main .post .content blockquote footer cite {
+section.main .post .content blockquote fojnoter cite {
   padding: 10px;
 }
 section.main .post .content .pullquote {
